@@ -5,8 +5,8 @@
 ### Authors: Pratiibh Bassi, Jeremy Lee
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](PR link)
+* [travis](travis link)
 
 ### Modules
 #### `app.js`
