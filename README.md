@@ -5,7 +5,7 @@
 ### Authors: Pratiibh Bassi, Jeremy Lee
 
 ### Links and Resources
-* [submission PR](PR link)
+* [submission PR](https://github.com/pratiibh-401-advanced-javascript/lab-18/pull/1)
 * [travis](travis link)
 
 ### Modules
