@@ -2,7 +2,7 @@
 
 # Socket.io
 
-### Authors: Pratiibh Bassi
+### Authors: Pratiibh Bassi, Jeremy Lee
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
